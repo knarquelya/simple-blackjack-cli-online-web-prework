@@ -4,6 +4,7 @@ end
 
 def deal_card
   card > 0 
+  until card == 11
   # code #deal_card here
 end
 
