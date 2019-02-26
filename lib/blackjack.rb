@@ -18,7 +18,6 @@ end
 
 def get_user_input
   answer = gets.chomp 
-  # code #get_user_input here
 end
 
 def end_game
